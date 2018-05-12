@@ -1,0 +1,35 @@
+_repo: Old-Friends-and-New_32382
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jewett, Sarah Orne
+    birthdate: 1849
+    deathdate: 1909
+    gutenberg_agent_id: '202'
+    url: http://www.gutenberg.org/2009/agents/202
+    wikipedia: http://en.wikipedia.org/wiki/Sarah_Orne_Jewett
+description: Published in 1879, the stories collected in Old Friends and New are written
+  with Jewett's keen insight and gentle humor, and offer a vivid display of her genius
+  as a writer. Her poignant depictions of elderly women as seen through the eyes of
+  the young, is a theme that runs prominently through the collection. Included are
+  A Late Supper," A Sorrowful Guest," and A Bit of Shore Life."
+gutenberg_issued: '2010-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32382'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PS'
+- !lcsh 'New England -- Social life and customs -- Fiction'
+- !lcsh 'Short stories, American'
+tableOfContents: A lost lover -- A sorrowful guest -- A late supper -- Mr. Bruce --
+  Miss Sydney's flowers -- Lady Ferry -- A bit of shore life.
+title: Old Friends and New
+url: http://www.gutenberg.org/ebooks/32382
